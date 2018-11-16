@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerRefresh</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">正在载入数据…</string>
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">放开立即刷新</string>
+    <string name="pull_to_refresh_refreshing_label">正在载入数据…</string>
+    <string name="pull_to_refresh_done_label">加载完成</string>
+    <string name="pull_to_refresh_from_bottom_done_label">没有更多的数据了</string>
+    <string name="pull_to_refresh_from_bottom_error_label">网络异常，请重试</string>
+
+
+    <string name="pull_to_refresh_from_bottom_refreshing_label_en">Loading…</string>
+    <string name="pull_to_refresh_pull_label_en">Pull to refresh…</string>
+    <string name="pull_to_refresh_release_label_en">Release to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label_en">Loading…</string>
+    <string name="pull_to_refresh_done_label_en">Load done</string>
+    <string name="pull_to_refresh_from_bottom_done_label_en">No more data</string>
+    <string name="pull_to_refresh_from_bottom_error_label_en">Network failure, please try again!</string>
+</resources>
